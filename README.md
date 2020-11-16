@@ -1,6 +1,6 @@
 ### Greetings 🖖
 
-- 🌱 I’m currently learning about [jekyll](https://jekyllrb.com) and GitHub Pages
+- 🌱 I’m currently learning about using [jekyll](https://jekyllrb.com) to create GitHub Pages
 
 <!--
 **silhouette88/silhouette88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
