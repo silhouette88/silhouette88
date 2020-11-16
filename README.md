@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings 🖖
 
 - 🌱 I’m currently learning about [jekyll](https://jekyllrb.com) and GitHub Pages
 
