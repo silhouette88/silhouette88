@@ -1,6 +1,6 @@
 ### Greetings 🖖
 
-- 🌱 I’m currently learning about using [jekyll](https://jekyllrb.com) to create GitHub Pages
+- 🔭 I’m currently working on trying out the (relatively) new native ECS support in docker-compose.  [compose-cli](https://github.com/docker/compose-cli)
 
 <!--
 **silhouette88/silhouette88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
