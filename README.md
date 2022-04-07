@@ -1,6 +1,6 @@
 ### Greetings 🖖
 
-- ⚡ Fun fact: I am a custom mechanical keyboard nerd-in-training.
+- ⌘ Fun fact: I am a custom mechanical keyboard nerd-in-training.
 - 🔭 I’m currently working on various infrastructure projects.
 
 
