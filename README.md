@@ -1,6 +1,8 @@
 ### Greetings 🖖
 
-- 🔭 I’m currently working on trying out the (relatively) new native ECS support in docker-compose.  [compose-cli](https://github.com/docker/compose-cli)
+- ⚡ Fun fact: I am a custom mechanical keyboard nerd-in-training.
+- 🔭 I’m currently working on various infrastructure projects.
+
 
 <!--
 **silhouette88/silhouette88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
